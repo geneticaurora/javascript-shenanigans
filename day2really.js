@@ -6,14 +6,14 @@
 //}
 
 //Variable Age &&
-//var age = 18
-//var country = "United Kingdom"
-//if (age > 17 && country == "United Kingdom") {
-//    console.log ("Yes I can serve you & you are in the right country")
-//}
-//else { // else only needed
-//    console.log ("You are not old enough and the in the wrong country")
-//}
+var age = 18
+var country = "United Kingdom"
+if (age > 17 && country == "United Kingdom") {
+   console.log ("Yes I can serve you & you are in the right country")
+}
+else { // else only needed
+   console.log ("You are not old enough and the in the wrong country")
+}
 //Variable Day ||
 //var day = "Saturday"
 //if (day == "Saturday") {
